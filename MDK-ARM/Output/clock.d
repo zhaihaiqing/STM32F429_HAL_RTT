@@ -1,0 +1,12 @@
+.\output\clock.o: ..\rt-thread-3.1.3\src\clock.c
+.\output\clock.o: ..\rt-thread-3.1.3\include\rthw.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtthread.h
+.\output\clock.o: ..\rt-thread-3.1.3\bsp\rtconfig.h
+.\output\clock.o: .\RTE\_STM32F429_HAL_RTT\RTE_Components.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtdebug.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtdef.h
+.\output\clock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtservice.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtm.h
+.\output\clock.o: ..\rt-thread-3.1.3\include\rtthread.h
+.\output\clock.o: ..\rt-thread-3.1.3\components\finsh\finsh_api.h
